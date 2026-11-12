@@ -24,16 +24,6 @@ This means:
 
 This is acceptable for learning and prototyping. Later lessons introduce persistent storage so that data survives server restarts.
 
-## Requirements
-
-Python 3 installed.
-
-Install Flask:
-
-```bash
-pip install flask
-```
-
 ## Running the Server
 
 Start the API server with:
